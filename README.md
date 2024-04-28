@@ -38,7 +38,8 @@ search type:auxiliary mysql
 ![1](https://github.com/Nandhinijaya/Metasploit-for-reconnaissance/assets/121998147/7c7815d7-ba01-4211-81f1-9f2d517c6600)
 
 Invoke msfconsole:
-![haa](https://github.com/Nandhinijaya/Metasploit-for-reconnaissance/assets/121998147/5d24f63a-ef14-4418-93e8-0beb8492ebd4)
+![326164525-9fede203-c2a2-46e6-88cf-eaff0abc9cd4](https://github.com/Shree-Ram-R/Metasploit-for-reconnaissance/assets/121288490/b048424c-021c-4fb0-ab8d-72533f3b50cb)
+
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
 ![3](https://github.com/Nandhinijaya/Metasploit-for-reconnaissance/assets/121998147/be282796-aec4-4f7d-b549-89eb65104b2e)
 
