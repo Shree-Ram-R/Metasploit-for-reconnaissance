@@ -1,12 +1,13 @@
-# Metasploit-for-reconnaissance
-# Metasploit
-Metasploit for reconnaissance in pentesting
+# EXP.NO:5
+# DATE:
+
+# Metasploit for reconnaissance in pentesting
 
 # AIM:
 
 To get introduced to Metasploit Framework and to  perform reconnaissance  in pentesting .
 
-## DESIGN STEPS:
+# ALGORITHM:
 
 ### Step 1:
 
@@ -20,7 +21,19 @@ Investigate on the various categories of tools as follows:
 
 Open terminal and try execute some kali linux commands
 
-## EXECUTION STEPS AND ITS OUTPUT:
+## Commands :
+
+```
+ipconfig
+msfconsole
+nmap -sT 192.168.1810/24 -p1-1000
+db_nmap 192.168.181.0/24
+ls -l
+search name:Microsoft type:exploit
+db_nmap -sV -sC -p 3306
+search type:auxiliary mysql 
+```
+
 ## OUTPUT:
 ![1](https://github.com/Nandhinijaya/Metasploit-for-reconnaissance/assets/121998147/7c7815d7-ba01-4211-81f1-9f2d517c6600)
 
@@ -29,7 +42,7 @@ Invoke msfconsole:
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
 ![3](https://github.com/Nandhinijaya/Metasploit-for-reconnaissance/assets/121998147/be282796-aec4-4f7d-b549-89eb65104b2e)
 
-Port Scanning: Following command is executed for scanning the systems on our local area network with a TCP scan (-sT) looking for open ports between 1 and 1000 (-p1-1000). msf > nmap -sT 192.168.1810/24 -p1-1000 OUTPUT:
+Port Scanning: Following command is executed for scanning the systems on our local area network with a TCP scan (-sT) looking for open ports between 1 and 1000 (-p1-1000). msf >
 
 ![5](https://github.com/Nandhinijaya/Metasploit-for-reconnaissance/assets/121998147/4b1bd531-7d2d-4272-b6c0-7ed00f8e7afa)
 
