@@ -1,5 +1,5 @@
-# EXP.NO:5
-# DATE:
+# EXP.NO:05
+# DATE:19-03-2024
 
 # Metasploit for reconnaissance in pentesting
 
